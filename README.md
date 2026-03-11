@@ -36,10 +36,6 @@ The goal of this repository is to demonstrate clean, efficient, and understandab
 * Detecting cycles/loops using Floyd’s Cycle-Finding Algorithm.
 * Finding the middle node and merging sorted lists.
 
-## 💻 Coding Style
-* **No Comments:** Code is written to be intuitive and readable through naming conventions.
-* **Manual Logic:** Prioritizes manual implementation (loops/pointers) over high-level built-in functions to show deep understanding of the underlying algorithm.
-* **Signature:** Every code block includes the unique identifier: #Amit Kumar 202310101150190.
 
 ## 🚀 How to Use
 1. Clone the repository:
