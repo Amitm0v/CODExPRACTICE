@@ -43,7 +43,7 @@ The goal of this repository is to demonstrate clean, efficient, and understandab
 
 ## 🚀 How to Use
 1. Clone the repository:
-   git clone https://github.com/your-username/DSA-Solutions-Amit-Kumar.git
+   git clone https://github.com/Amitm0v/CODExPRACTICE.git
 2. Navigate to the desired script.
 3. Run using Python:
    python filename.py
